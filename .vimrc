@@ -36,3 +36,4 @@ let g:go_disable_autoinstall = 0		"golang
 set cscopequickfix=s-,c-,d-,i-,t-,e-
 nmap c :cs find c <C-R>=expand("<cword>")<CR><CR>
 
+set colorcolumn=80
