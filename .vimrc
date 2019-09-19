@@ -9,6 +9,7 @@ set showcmd             "显示未完成命令
 set tabstop=4           "tab为4个空格
 set softtabstop=4		"统一
 set shiftwidth=4        "行交错
+set ts=4
 
 set formatoptions=tcrqn "自动格式化
 set cindent             "c文件类型自动缩进
